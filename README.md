@@ -1,9 +1,10 @@
 ## Hi there 👋 I am Sadiya!
 
-<h3 align="left">Currently working on </h3>
+<h3 align="left"> currently coding in </h3>
 
- 
- - 🌱 I’m currently learning **ReactJS**, **NodeJS** , **TypeScript** and **MongoDB**.
+ - **Javascript, ReactJS, NodeJS, MongoDB, TailwindCSS, MySQL, Java**
+  
+ - 🌱 I’m currently learning **TypeScript** .
 
  - 👯 I’m looking to collaborate on **Web Technologies** and **Software Development**
 
@@ -118,5 +119,5 @@
  
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 
