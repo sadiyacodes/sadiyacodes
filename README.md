@@ -2,13 +2,13 @@
 
 <h3 align="left"> currently coding in </h3>
 
- - **Javascript, ReactJS, NodeJS, MongoDB, TailwindCSS, MySQL, Java**
+ - **Javascript, TypeScript, ReactJS, NodeJS, MongoDB, TailwindCSS, MySQL, Java**
   
- - 🌱 I’m currently learning **TypeScript** .
+ - 🌱 I’m currently exploring **Agentic AI** .
 
  - 👯 I’m looking to collaborate on **Web Technologies** and **Software Development**
 
- - 💬 Ask me about **JavaScript and ReactJS** 
+ - 💬 Ask me about **JavaScript or ReactJS or you can ask me to yap about AI Agents** 
  
  - 📫 Reach me at **sadiya2409@gmail.com**
 
